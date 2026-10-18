@@ -1,0 +1,6 @@
+{
+  "name": "Debian WikiNote",
+  "description": "A desktop-grade personal knowledge wiki and Markdown notepad for Debian Linux with automatic title hyperlinks, clipboard image insertion, and .deb packaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
